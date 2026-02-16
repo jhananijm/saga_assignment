@@ -1,6 +1,6 @@
 # Part 3 - Reliability & Observability
 
-This folder contains the monitoring, alerting, and incident handling strategy for Saga’s multi-tenant AI SaaS platform on Azure.
+This folder contains the monitoring, alerting, and incident handling strategy for multi-tenant AI SaaS platform on Azure.
 
 ## Scope Covered
 - Metrics, logs, and alerting strategy
