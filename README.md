@@ -13,7 +13,7 @@ Includes:
 - Rationale for Azure service choices
 
 ## Assignment 2: GitHub Actions CI/CD Strategy
-📌 Folder: `part-2-github-actions-cicd/`
+📌 Folder: `part-2-cicd-deployment/`
 
 Includes:
 - CI/CD deployment strategy
