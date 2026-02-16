@@ -1,4 +1,4 @@
-# Saga Technical Assignment (Azure Architecture + GitHub Actions + Observalibity)
+# Saga Technical Assignment (Azure Architecture + GitHub Actions + Observability)
 
 This repository contains three parts of the Saga technical assignment:
 
