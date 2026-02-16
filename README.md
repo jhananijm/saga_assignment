@@ -1,6 +1,6 @@
-# Multi-Tenant AI SaaS Platform on Azure (Saga Reference Architecture)
+# Multi-Tenant AI SaaS Platform on Azure
 
-This repository contains a production-grade reference architecture for **Saga's Multi-Tenant AI SaaS Platform** built on **Microsoft Azure**.
+This repository contains a production-grade reference architecture for Multi-Tenant AI SaaS Platform** built on **Microsoft Azure**.
 
 The design focuses on secure tenant isolation, scalable AI workloads, containerized services, private networking, and resilience patterns required for enterprise-grade AI platforms.
 
@@ -67,7 +67,3 @@ This architecture addresses the following requirements:
 
 ---
 
-## Notes
-
-This is a reference design intended for architecture discussions and technical assessments.  
-The design can be implemented using Terraform/Bicep and deployed with CI/CD pipelines.
