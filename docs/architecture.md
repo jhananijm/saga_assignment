@@ -16,7 +16,7 @@ The architecture is designed for production workloads and includes isolation bou
 
 ## 2. Architecture Diagram
 
-![Azure Multi-Tenant AI Architecture](../diagrams/architecture.png)
+![Azure Multi-Tenant AI Architecture](../multi_tenant_architecture.png)
 
 ---
 
