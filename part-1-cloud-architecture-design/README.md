@@ -1,6 +1,6 @@
 # Multi-Tenant AI SaaS Platform on Azure
 
-This repository contains a production-grade reference architecture for Multi-Tenant AI SaaS Platform** built on **Microsoft Azure**.
+This repository contains a production-grade reference architecture for Multi-Tenant AI SaaS Platform.
 
 The design focuses on secure tenant isolation, scalable AI workloads, containerized services, private networking, and resilience patterns required for enterprise-grade AI platforms.
 
