@@ -3,7 +3,7 @@
 This repository contains three parts of the Saga technical assignment:
 
 ## Assignment 1: Azure Multi-Tenant AI Platform Architecture
-📌 Folder: `part-1-azure-architecture/`
+📌 Folder: `part-1-cloud-architecture-design/`
 
 Includes:
 - Architecture diagram
