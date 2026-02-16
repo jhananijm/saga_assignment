@@ -1,6 +1,6 @@
 # Assignment 2 - GitHub Actions CI/CD Deployment Strategy
 
-This folder contains the GitHub Actions based deployment strategy for Saga's multi-tenant AI SaaS platform on Azure.
+This folder contains the GitHub Actions based deployment strategy for multi-tenant AI SaaS platform on Azure.
 
 The strategy covers:
 - Environment separation (Dev / Test / Prod)
