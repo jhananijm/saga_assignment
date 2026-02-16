@@ -1,4 +1,4 @@
-# Assignment 2 - GitHub Actions CI/CD Deployment Strategy
+# Part 2 - GitHub Actions CI/CD Deployment Strategy
 
 This folder contains the GitHub Actions based deployment strategy for multi-tenant AI SaaS platform on Azure.
 
