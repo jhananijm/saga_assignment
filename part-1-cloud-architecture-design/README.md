@@ -8,7 +8,7 @@ The design focuses on secure tenant isolation, scalable AI workloads, containeri
 
 ## Architecture Diagram
 
-![Azure Multi-Tenant AI Architecture](../diagrams/multi_tenant_architecture.png)
+![Azure Multi-Tenant AI Architecture](part-1-cloud-architecture-design/diagrams/multi_tenant_architecture.png)
 
 ---
 
